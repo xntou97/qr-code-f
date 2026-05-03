@@ -72,3 +72,23 @@ main {
         margin: 1% 1% 1% 1%;
     }
 }
+
+@media (min-width: 1900px) {
+    main {
+        width: 50%;
+        max-width: 40vh;
+        height: 60vh;
+        margin: 10%;
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 1%;
+    }
+
+    .title {
+        margin: 1% 5% 1% 5%;
+    }
+
+    .subtitle {
+        margin: 1% 1% 1% 1%;
+    }
+}
